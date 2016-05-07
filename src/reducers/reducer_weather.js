@@ -7,7 +7,7 @@ export default function(state = [], action){
       //return state.concat([action.payload.data]); //es5
       return [ action.payload.data, ...state]; //es6
   }
-  console.log('Action received', action);
+  //console.log('Action received', action);
 
   return state;
 }
