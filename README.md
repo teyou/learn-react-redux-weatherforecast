@@ -1,3 +1,7 @@
+# Screenshot
+![Demo](screenshot.png)
+
+
 # ReduxSimpleStarter
 
 Start from lesson 49 - Weather Forecast app
@@ -25,4 +29,3 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
- 
