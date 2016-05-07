@@ -5,7 +5,7 @@ import { connect } from 'react-redux';
 class WeatherList extends Component {
 
   renderWeather(cityData){
-
+    console.log(cityData);
     const name = cityData.city.name;
 
     return(
